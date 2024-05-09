@@ -1,1 +1,5 @@
-# Abacus-Gestures-Code-for-CogScin-2024
+# Abacus-Gestures-Code-for-CogSci-2024
+
+In this paper, we developed three ACT-R cognitive models to simulate the learning process of abacus gestures, a family of bimanual, mid-air gestures where each gesture represents a number between 0 and 99, which can be made by opening and closing the 10 fingers. Informed by real-world, human-subject data, our models learn to predict the response time of making an abacus gesture. We found that the accuracy of a model's predictions depends on the structure of its declarative memory – a model using many chunks (N=100) is unable to simulate human response, whereas models using fewer chunks can, as segmenting chunks can increase both the frequency and recency of information retrieval. Furthermore, our findings suggest that the human mind is more likely to represent abacus gestures by dividing attention between two hands rather than memorizing and outputting all gestures directly. These insights have important implications for future research in cognitive science and human-computer interaction (HCI), particularly in developing vision and motor modules for mental math in existing cognitive architectures and designing intuitive and efficient mid-air gesture interfaces in HCI. 
+
+We put the original code for the paper here.
